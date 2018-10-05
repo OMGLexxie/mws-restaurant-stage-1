@@ -1,1 +1,0 @@
-console.log('Heck yeah, that Service Worker is registered and ready for work')
